@@ -1,7 +1,3 @@
-# CS 5330 - PR-CV - Assignment 2: Content-Based Image Retrieval
-**Student:** Rohil Kulshreshtha
-February 7, 2026
-
 **Operating System:** Windows 11
 **IDE:** Visual Studio Code with CMake Tools extension
 **Compiler:** MSVC 14.50 (Visual Studio 2022 Build Tools)
