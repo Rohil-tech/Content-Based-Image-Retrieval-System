@@ -2,9 +2,6 @@
 **Student:** Rohil Kulshreshtha
 February 7, 2026
 
-## Submission Information
-**Time Travel Days Used:** 0
-
 **Operating System:** Windows 11
 **IDE:** Visual Studio Code with CMake Tools extension
 **Compiler:** MSVC 14.50 (Visual Studio 2022 Build Tools)
