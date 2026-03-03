@@ -1,7 +1,3 @@
-**Operating System:** Windows 11
-**IDE:** Visual Studio Code with CMake Tools extension
-**Compiler:** MSVC 14.50 (Visual Studio 2022 Build Tools)
-
 ## Project Overview
 Comprehensive content-based image retrieval (CBIR) system implementing multiple feature extraction methods, distance metrics, and an interactive web interface for finding visually similar images.
 
@@ -10,6 +6,10 @@ Two-program design for efficient querying:
 - **buildVectorDB**: Extracts features from image database, saves to CSV
 - **match**: Queries pre-computed features to find similar images
 - **GUI**: Gradio web interface for interactive exploration
+
+**Operating System:** Windows 11  
+**IDE:** Visual Studio Code with CMake Tools extension  
+**Compiler:** MSVC 14.50 (Visual Studio 2022 Build Tools)  
 
 ## File Structure
 ```
